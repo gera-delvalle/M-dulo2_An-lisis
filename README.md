@@ -17,3 +17,6 @@ r2 score del set de entrenamiento es  0.889270109688877
 r2 score del set de validacion es  0.8651013775190712
 
 r2 score del set de prueba es 0.9095913436342439
+
+Link al colab:
+https://colab.research.google.com/drive/1fhYSK03UQa5azmArl4HoJV3axuYyn_om?usp=sharing
