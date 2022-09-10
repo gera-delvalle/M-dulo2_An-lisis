@@ -18,5 +18,8 @@ r2 score del set de validacion es  0.8651013775190712
 
 r2 score del set de prueba es 0.9095913436342439
 
+El documento de Análisis y reporte se generó desde jupyter, pero no sale a menos que se descargue. Por lo tanto puse el generado desde colab como respaldo.
+
+
 Link al colab:
 https://colab.research.google.com/drive/1fhYSK03UQa5azmArl4HoJV3axuYyn_om?usp=sharing
